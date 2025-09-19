@@ -1,2 +1,4 @@
 # isha_project
-Project
+Project on TSEC
+<br>
+Isha is the author
